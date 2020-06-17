@@ -22,6 +22,7 @@ pytz==2020.1
 six==1.15.0
 SQLAlchemy==1.3.17
 toml==0.10.1
+uwsgi
 Werkzeug==1.0.1
 wrapt==1.12.1
 zope.interface==5.1.0
